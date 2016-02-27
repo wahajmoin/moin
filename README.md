@@ -1,7 +1,7 @@
 # moin
 ## moin bhai
 not bold
-*this wahaj bold* 
-**wahaj italic**
+*this wahaj italic* 
+**wahaj bold**
 simple
-this is [an example] (http://facebook.com/"wahaj moin") inline link
+this is [blue hoga] (http://facebook.com/"wahaj moin") .
