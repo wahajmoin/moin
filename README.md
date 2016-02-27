@@ -1,5 +1,5 @@
 # moin
 ## moin bhai
-* wahajbold *
+* wahaj bold *
 ** wahaj italic **
-this is [an example] (http://facebook.com/"wahaj moin") inline link
+this is [an example] (http://facebook.com/wahaj moin) inline link
